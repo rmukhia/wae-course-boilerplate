@@ -7,3 +7,5 @@ Use this boilerplate to start a new rails application with
 * Cucumber primed and ready to go.
 * AdminController skeleton with authorization
 * MainController#index as root url.
+* jQuery
+* User credentails are seeds. Check db/seeds.rb
