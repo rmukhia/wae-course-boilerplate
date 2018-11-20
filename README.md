@@ -9,3 +9,4 @@ Use this boilerplate to start a new rails application with
 * MainController#index as root url.
 * jQuery
 * User credentails are seeds. Check db/seeds.rb
+* Nested Scaffold
