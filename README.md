@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Use this boilerplate to start a new rails application with
+* User authentication (Devise)
+* User authorization (Cancancan, with 'Admin' and 'Member' roles)
+* Some rake tests (running at 100% coverage)
+* Cucumber primed and ready to go.
+* AdminController skeleton with authorization
+* MainController#index as root url.
